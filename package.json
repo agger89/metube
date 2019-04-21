@@ -15,5 +15,8 @@
   "homepage": "https://github.com/agger89/metube#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "scripts":{
+    "start": "node index.js"
   }
 }
