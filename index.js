@@ -12,7 +12,7 @@ function handleHome(req, res) {
 }
 
 function handleProfile(req, res) {
-    res.send("hohohho");
+    res.send("hohohho11");
 }
 
 app.get("/", handleHome);
